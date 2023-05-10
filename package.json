@@ -1,0 +1,22 @@
+{
+  "name": "weatherio-starter",
+  "version": "1.0.0",
+  "description": "Weather application",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithsadee/weatherio-starter.git"
+  },
+  "author": "Jaloliddin Rakhmatov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewithsadee/weatherio-starter/issues"
+  },
+  "homepage": "https://github.com/codewithsadee/weatherio-starter#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
